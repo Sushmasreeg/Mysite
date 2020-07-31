@@ -45,11 +45,11 @@ p{
 .bottom-cloud
 {
   position: absolute;
-  left:30%;
+  left:300px;
 }
 .top-cloud{
   position: absolute;
-  right: 30%;
+  right: 300px;
   padding-top: 20px;
 }
 .top-container
